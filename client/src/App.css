@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Grand+Hotel&display=swap');
+/*----------------Navbar-----*/
+.pink-color{
+background: rgb(218, 58, 84);
+}
+.instagram{
+  font-family: 'Grand Hotel', cursive;
+}
+
+/*------Login-----*/
+.btn-skyblue{
+background-color: rgb(56, 160, 201);
+}
+/*-----profile page-----*/
+.gallery{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+.item{
+  width: 30%;
+}
+/*-----hovering effects-----*/
+.hovericons:hover{
+  cursor: pointer;
+}
+/*-------card header------*/
+.bg-warning-blue{
+  background: rgb(114, 245, 250);
+}
+/*-----RESPONSIVE PART------*/
+/*---FOR SMALL SCREEN------*/
+/*-------profile page---*/
+@media (max-width: 575px) {
+  .image-center{
+    text-align: center;
+  }
+  .name-center{
+    text-align: center;
+  }
+}
+/*----FOR LANDSCAPE MODE-------*/
+@media (min-width: 576px) and (max-width: 767px){
+
+}
