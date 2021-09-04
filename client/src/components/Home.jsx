@@ -153,7 +153,7 @@ export default function Home(){
                         {/*<div className="row">
                             <div className="col-lg-10 col-md-10 col-sm-6 col-6">
                                 <div className="md-form">
-                                <input type="text" placeholder="Add a Comment" className="form-control"/>
+                                <input type="text" placeholder="Add a Comments" className="form-control"/>
                                 </div>
                             </div>
                             <div className="col-lg-10 col-md-10 col-sm-6 col-6">
@@ -191,7 +191,7 @@ export default function Home(){
                         <h5>Title</h5>
                         <p>This is amazing post</p>
                         <div className="md-form">
-                        <input type="text" placeholder="Add a Comment" className="form-control"/>
+                        <input type="text" placeholder="Add a Comments" className="form-control"/>
                         </div>
                     </div>
                 </div>
@@ -205,7 +205,7 @@ export default function Home(){
                         <h5>Title</h5>
                         <p>This is amazing post</p>
                         <div className="md-form">
-                        <input type="text" placeholder="Add a Comment" className="form-control"/>
+                        <input type="text" placeholder="Add a Comments" className="form-control"/>
                         </div>
                     </div>
                 </div>
