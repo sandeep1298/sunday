@@ -15,7 +15,7 @@ export default function Navbar(){
                 </li>,
                 <li className="nav-item">
                 <NavLink to="/createpost" className="nav-link waves-effect waves-light" >
-                    Create Post
+                    Create Posts
                 </NavLink>
                 </li>,
                 <li className="nav-item">
