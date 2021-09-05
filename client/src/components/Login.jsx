@@ -50,7 +50,7 @@ export default function Login(){
         <>
         <div className="container mt-5 pt-5 flex-center">
             <div className="card">
-                <h1 className="text-center card-header text-white secondary-color  instagram">Instagrams and kilo</h1>
+                <h1 className="text-center card-header text-white secondary-color  instagram">Instagrams and kilograms</h1>
                 <div className="card-body">
                     <form onSubmit={handlesubmit}>
                         <div className="md-form">
