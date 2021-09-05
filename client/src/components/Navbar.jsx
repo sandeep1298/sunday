@@ -20,7 +20,7 @@ export default function Navbar(){
                 </li>,
                 <li className="nav-item">
                 <NavLink to="/myfollowingpost" className="nav-link waves-effect waves-light" >
-                    My Following Posts
+                    My Following Posts and likes
                 </NavLink>
                 </li>,
                 <li className="nav-item">
